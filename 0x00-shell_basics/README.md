@@ -1,4 +1,1 @@
-
-(#!/bin/bash)
-("Why me")
-
+tuff"
