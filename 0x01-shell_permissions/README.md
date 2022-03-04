@@ -1,1 +1,1 @@
-set hello permission from olleh
+Change both the owner and the group
