@@ -1,1 +1,1 @@
-User can execute
+Owner and Group Owner execute
