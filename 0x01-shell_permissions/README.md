@@ -1,1 +1,1 @@
-Set for all directories
+set hello permission from olleh
