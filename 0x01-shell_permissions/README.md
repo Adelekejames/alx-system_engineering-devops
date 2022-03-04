@@ -1,1 +1,1 @@
-Make directory with  permission
+Set for all directories
