@@ -1,2 +1,1 @@
-#!/bin/bash
-"Why me"
+Print Hello, World
