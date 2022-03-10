@@ -1,1 +1,1 @@
-Create duplicate
+Delete Javascript files
