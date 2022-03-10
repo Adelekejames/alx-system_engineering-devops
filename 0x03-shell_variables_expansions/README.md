@@ -1,1 +1,1 @@
-Create L V
+create G V
