@@ -1,1 +1,1 @@
-Reverse it
+Display all users homes
