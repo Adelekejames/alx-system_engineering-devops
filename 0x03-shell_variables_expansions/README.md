@@ -1,1 +1,1 @@
-create G V
+True Knowledge
